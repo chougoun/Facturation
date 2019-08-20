@@ -1,0 +1,38 @@
+
+/****** Client Lister ********/
+localhost:8180/AppFacture/Client/Controller/ClientListerInit.php
+
+
+/***** Facture Lister ********/
+http://localhost:8180/AppFacture/Facture/Controller/FactureListerInit.php
+
+
+/***** Ligne Facture Lister ******/
+
+http://localhost:8180/AppFacture/LigneFacture/Controller/LigneFactureListerInit.php
+
+
+/***** Famille Lister ********/
+
+http://localhost:8180/AppFacture/Famille/Controller/FamilleListerInit.php
+
+
+/***** Sous Famille Lister ********/
+
+http://localhost:8180/AppFacture/SousFamille/Controller/SousFamilleListerInit.php
+
+
+
+/*********** Type Client Lister ***********/
+
+http://localhost:8180/AppFacture/TypeClient/Controller/TypeClientListerInit.php
+
+
+/********* Devise Lister ************/
+
+http://localhost:8180/AppFacture/Devise/Controller/DeviseListerInit.php
+
+
+/******* Produit Lister *********/
+
+http://localhost:8180/AppFacture/Produit/Controller/ProduitListerInit.php
